@@ -1,0 +1,62 @@
+.grid-container
+{
+    display: grid;
+    width: 30vw;
+    height: 40vh;
+    grid-template-columns: calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8);
+    grid-template-rows: calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8) calc(100%/8);
+    grid-gap: 5px;
+    align-self: center;
+}
+
+.grid-item
+{
+    width: auto;
+    border-radius: 10%;
+    height: auto;
+    background-color: burlywood;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 75px;
+    text-align: center;
+}
+
+.stats
+{
+    border-style: solid;
+    border-color: black;
+    border-radius: 25%;
+    width: 400px;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+    align-self: center;
+}
+
+.flex-container
+{
+    width: 100vw;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-startGame
+{
+    width: 10%;
+    height: 5%;
+    align-self: center;
+}
+
+h2
+{
+    align-self: center;
+}
+
+.clicked
+{
+    background-color: chartreuse;
+}
