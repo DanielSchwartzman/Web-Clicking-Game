@@ -2,7 +2,7 @@
 Super simple click numbers in an ascending order mini-game. currently capped at 10 instead of 64 for simplicity.
 
 ## Game demonstration
-https://github.com/DanielSchwartzman/Web-Clicking-Game/assets/127026045/ccbc3536-e8ed-47fd-9afb-afa89ca6854b
+https://github.com/DanielSchwartzman/Web-Clicking-Game/assets/127026045/682aff04-fd07-4c10-aca9-b250049738b6
 
 ## Authors
 - [@DanielSchwartzman](https://github.com/DanielSchwartzman)
